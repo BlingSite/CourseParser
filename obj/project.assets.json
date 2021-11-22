@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "/Users/lng/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/lng/Projects/CourseHero/CourseHero/CourseHero.csproj",
+      "projectName": "CourseHero",
+      "projectPath": "/Users/lng/Projects/CourseHero/CourseHero/CourseHero.csproj",
+      "packagesPath": "/Users/lng/.nuget/packages/",
+      "outputPath": "/Users/lng/Projects/CourseHero/CourseHero/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/lng/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://artifactory.secureserver.net/artifactory/api/nuget/nuget-virt": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

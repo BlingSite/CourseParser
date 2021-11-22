@@ -1,0 +1,13 @@
+/Users/lng/Projects/CourseHero/CourseHero/bin/Debug/netcoreapp3.1/CourseHero.deps.json
+/Users/lng/Projects/CourseHero/CourseHero/bin/Debug/netcoreapp3.1/CourseHero.runtimeconfig.json
+/Users/lng/Projects/CourseHero/CourseHero/bin/Debug/netcoreapp3.1/CourseHero.runtimeconfig.dev.json
+/Users/lng/Projects/CourseHero/CourseHero/bin/Debug/netcoreapp3.1/CourseHero.dll
+/Users/lng/Projects/CourseHero/CourseHero/bin/Debug/netcoreapp3.1/CourseHero.pdb
+/Users/lng/Projects/CourseHero/CourseHero/obj/Debug/netcoreapp3.1/CourseHero.csproj.AssemblyReference.cache
+/Users/lng/Projects/CourseHero/CourseHero/obj/Debug/netcoreapp3.1/CourseHero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lng/Projects/CourseHero/CourseHero/obj/Debug/netcoreapp3.1/CourseHero.AssemblyInfoInputs.cache
+/Users/lng/Projects/CourseHero/CourseHero/obj/Debug/netcoreapp3.1/CourseHero.AssemblyInfo.cs
+/Users/lng/Projects/CourseHero/CourseHero/obj/Debug/netcoreapp3.1/CourseHero.csproj.CoreCompileInputs.cache
+/Users/lng/Projects/CourseHero/CourseHero/obj/Debug/netcoreapp3.1/CourseHero.dll
+/Users/lng/Projects/CourseHero/CourseHero/obj/Debug/netcoreapp3.1/CourseHero.pdb
+/Users/lng/Projects/CourseHero/CourseHero/obj/Debug/netcoreapp3.1/CourseHero.genruntimeconfig.cache
